@@ -18,7 +18,7 @@ from telegram.ext import (
     ConversationHandler,
 )
 import os
-TOKEN = "7475654881:AAE5F-BsDJaos-L1qb2_EgEZcOgoMTWQNG0"
+TOKEN = "7694697246:AAEh9x7IO4i44Y7KOn618DP2WRp8BJQiIX8"
 print(f"TOKEN: {TOKEN}")  # Debugging statement
 
 if not TOKEN:
